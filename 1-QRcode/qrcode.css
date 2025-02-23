@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #D5E1EF;
+}
+
+.container {
+    width: 320px;
+    height: 499px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.card-img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.card-title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #1F314F;
+    margin-bottom: 10px;
+}
+
+.card-desc {
+    font-size: 15px;
+    font-weight: regular;
+    color: #68778D;
+}
