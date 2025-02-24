@@ -27,10 +27,13 @@ body {
     font-weight: bold;
     color: #1F314F;
     margin-bottom: 10px;
+    line-height: 120%;
 }
 
 .card-desc {
     font-size: 15px;
     font-weight: regular;
     color: #68778D;
+    letter-spacing: 0.2px;
+    line-height: 140%;
 }
